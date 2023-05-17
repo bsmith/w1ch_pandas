@@ -1,0 +1,12 @@
+name,address,preferred
+Acme,44 Acme Way,TRUE
+Acme,123 Gresham St,FALSE
+Bells And More Foundry,8 Church Ln,FALSE
+Bells And More Foundry,8 Church Street,FALSE
+Cabbages Greengrocers,123 Road Street,TRUE
+Cabbages Greengrocers,12b Road Street,TRUE
+Cabbages Greengrocers,12 3 Road Street,FALSE
+Green Plc,56 Baker St,FALSE
+Green Plc,65 Baker St,TRUE
+Widgets Inc,44 Scotland St,FALSE
+Xylophones Ltd,456 London Road,TRUE
